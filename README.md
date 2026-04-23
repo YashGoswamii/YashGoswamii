@@ -1,40 +1,39 @@
-# Hi 👋, I'm Yash Goswami
+<h1 align="center">Hi 👋, I'm Yash Goswami</h1>
 
-### Cybersecurity Researcher | Offensive & Defensive Security | Always learning, always hacking. 
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YashGoswamii" alt="YashGoswamii" /></a> </p>
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTl3Zng4d2FhdmZieHRwYWkzd2EzcWthZnZlNnEwNXoxcGh1YmZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+</div>
 
-- 🔭 I'm currently working on **Working my own advanced SOC Architecture
-Improving Red + Blue Teaming Skills
-Detection Engineering and threat visibility
-**
+###
 
-- 🌱 I'm currently learning **Advanced Web Application Security
-Threat Detection & Response
-SIEM & SOC Engineering
-Offensive Security Methodology **
+<h2 align="left">Cybersecurity Researcher | Offensive & Defensive Security | Always learning, always hacking.</h2>
 
-- 👯 I'm looking to collaborate on **Security Research Projects
-Red Team / Blue Team Labs
-Detection Engineering
-Vulnerability Management Projects**
+###
 
-- 📫 How to reach me **workforgoswami@gmail.com**
+<p align="left">🔭 I'm currently working on **Working my own advanced SOC Architecture Improving Red + Blue Teaming Skills Detection Engineering and threat visibility **<br><br>    🌱 I'm currently learning **Advanced Web Application Security Threat Detection & Response SIEM & SOC Engineering Offensive Security Methodology **<br><br>    👯 I'm looking to collaborate on Security Research Projects Red Team / Blue Team Labs Detection Engineering Vulnerability Management Projects<br><br>    📫 How to reach me workforgoswami@gmail.com<br><br>    ⚡ Fun fact I prefer practical cybersecurity over theory - if it cannot protect a real business, it is incomplete.</p>
 
-- ⚡ Fun fact **I prefer practical cybersecurity over theory - if it cannot protect a real business, it is incomplete.**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/YashGoswamii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YashGoswamii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/goswamiyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goswamiyash" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="linkedin.com/goswamiyash" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/YashGoswami__x" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/ig_yashgoswami" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashGoswamii&show_icons=true&locale=en&layout=compact" alt="YashGoswamii" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashGoswamii&show_icons=true&locale=en" alt="YashGoswamii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashGoswamii&" alt="YashGoswamii" /></p>
-
+###
