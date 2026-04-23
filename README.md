@@ -2,6 +2,8 @@
 
 ### Cybersecurity Researcher | Offensive & Defensive Security | Always learning, always hacking. 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YashGoswamii" alt="YashGoswamii" /></a> </p>
+
 - 🔭 I'm currently working on **Working my own advanced SOC Architecture
 Improving Red + Blue Teaming Skills
 Detection Engineering and threat visibility
@@ -29,4 +31,10 @@ Vulnerability Management Projects**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashGoswamii&show_icons=true&locale=en&layout=compact" alt="YashGoswamii" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashGoswamii&show_icons=true&locale=en" alt="YashGoswamii" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashGoswamii&" alt="YashGoswamii" /></p>
 
